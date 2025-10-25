@@ -87,7 +87,7 @@ h2 {
 
 /* HOME SECTION WITH BACKGROUND IMAGE */
 #home {
-    background-image: linear-gradient(var(--dark-overlay), var(--dark-overlay)), url('file:///C:/Users/manib/Downloads/wood/images/welcome_background.jpg.jpg'); /* Adjusted path */
+    background-image: linear-gradient(var(--dark-overlay), var(--dark-overlay)), url('images/welcome_background.jpg.jpg'); /* Adjusted path */
     background-size: cover;
     background-position: center;
     color: white; /* Text color changed for readability */
@@ -258,4 +258,5 @@ footer {
     #home h2 {
         font-size: 2.2em;
     }
+
 }
